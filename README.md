@@ -1,1 +1,34 @@
-# FInals-Lab-4-Lab-Activity-Exploring-XML
+<?xml version="1.0" encoding="UTF-8"?>
+<students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="student_schema.xsd">
+  <student>
+    <id>001</id>
+    <name>Mary Rose Delos Santos</name>
+    <course>BSIT</course>
+    <year>3</year>
+  </student>
+  <student>
+    <id>002</id>
+    <name>Novelene Udtohan</name>
+    <course>BSIT</course>
+    <year>3</year>
+  </student>
+  <student>
+    <id>003</id>
+    <name>Crisnar Villagarcia</name>
+    <course>BSIT</course>
+    <year>3</year>
+  </student>
+  <student>
+    <id>004</id>
+    <name>Reyes Deo</name>
+    <course>BSIT</course>
+    <year>3</year>
+  </student>
+  <student>
+    <id>005</id>
+    <name>Glen Delgado</name>
+    <course>BSIT</course>
+    <year>3</year>
+  </student>
+</students>
